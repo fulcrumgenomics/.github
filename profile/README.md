@@ -4,17 +4,43 @@
 
 We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond. Talk to us about your problem – we’ll understand.
 
+Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.  We hope that you will find them useful too!
 
-Here are some repos that we use regularly in our work:
+### Toolkits 
+Here are some _toolkits_ we've developed:
 
-* [fgpyo](https://github.com/fulcrumgenomics/fgpyo) Quality of life improvements for Bioinformatics in Python
-* [pybedlite](https://github.com/fulcrumgenomics/pybedlite) Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED)
-* [fgbio](https://github.com/fulcrumgenomics/fgpyo) Tools for working with genomic and high throughput sequencing data in Scala
-* [fgsv](https://github.com/fulcrumgenomics/fgsv) Tools to gather evidence for structural variation via breakpoint detection.
-* [fgoxide](https://github.com/fulcrumgenomics/fgoxide) Quality of life improvements for Bioinformatics in Rust.
-* [fqgrep](https://github.com/fulcrumgenomics/fqgrep) Grep for FASTQ files
+* [fgbio](https://github.com/fulcrumgenomics/fgbio): Tools for working with genomic and high throughput sequencing data in Scala.
+* [fgsv](https://github.com/fulcrumgenomics/fgsv): Tools to gather evidence for structural variation via breakpoint detection.
+* [fqtk](https://github.com/fulcrumgenomics/fqtk): Fast FASTQ sample demultiplexing in Rust.
+* [fqgrep](https://github.com/fulcrumgenomics/fqgrep): Grep for FASTQ files.
+* [stitch](https://github.com/fulcrumgenomics/stitch): Stitch is a toolkit for analysis of chimeric reads in sequencing data.
+* [guide-counter](https://github.com/fulcrumgenomics/guide-counter): A better, faster way to count guides in CRISPR screens.
+* [bwa](https://github.com/fulcrumgenomics/bwa/tree/interactive_aln): A fork of [bwa](https://github.com/lh3/bwa) to run interactively work with bwa on the command line.
 
-We hope that you will find them useful too!
+
+### Libraries
+
+Here are some _libraries_ that we use regularly in our work:
+
+* Python
+  * [fgpyo](https://github.com/fulcrumgenomics/fgpyo): Quality of life improvements for Bioinformatics in Python.
+  * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED).
+* Rust
+  * [fgoxide](https://github.com/fulcrumgenomics/fgoxide): Quality of life improvements for Bioinformatics in Rust.
+  * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in rust.
+  * [pooled-writer](https://github.com/fulcrumgenomics/pooled-writer): A pooled writer and compressor library in Rust.
+  * [bgzf](https://github.com/fulcrumgenomics/bgzf): High level readers and writers for the BGZF format in Rust.
+* Scala
+  * [fgprimer](https://github.com/fulcrumgenomics/fgprimer): APIs and wrappers for performing PCR primer design related tasks in Scala.
+  * [sopt](https://github.com/fulcrumgenomics/sopt): An argument parsing library for Scala.
+  * [commons](https://github.com/fulcrumgenomics/commons): A collection of useful libraries for Scala.
+* GitHub Actions
+  * [setup-latch](https://github.com/fulcrumgenomics/setup-latch): A GitHub action for building and register Latch Bio workflows.
+
+### Template Repositories
+
+Here are some _template_ repositories:
+* [python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template) A template repository for Snakemake pipepline(s) and a python command-line toolkit.
 
 <!--
 
