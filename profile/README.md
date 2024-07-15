@@ -7,14 +7,14 @@ We are bioinformaticians, computational biologists, and software engineers with 
 
 Here are some repos that we use regularly in our work:
 
-- [fgpyo](https://github.com/fulcrumgenomics/fgpyo) Quality of life improvements for Bioinformatics in Python 
-- [pybedlite](https://github.com/fulcrumgenomics/pybedlite) Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED)
-- [fgbio](https://github.com/fulcrumgenomics/fgpyo) Tools for working with genomic and high throughput sequencing data in Scala
-- [fgsv](https://github.com/fulcrumgenomics/fgsv) Tools to gather evidence for structural variation via breakpoint detection.
-- [fgoxide](https://github.com/fulcrumgenomics/fgoxide) Quality of life improvements for Bioinformatics in Rust.
-- [fqgrep](https://github.com/fulcrumgenomics/fqgrep) Grep for FASTQ files
+* [fgpyo](https://github.com/fulcrumgenomics/fgpyo) Quality of life improvements for Bioinformatics in Python
+* [pybedlite](https://github.com/fulcrumgenomics/pybedlite) Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED)
+* [fgbio](https://github.com/fulcrumgenomics/fgpyo) Tools for working with genomic and high throughput sequencing data in Scala
+* [fgsv](https://github.com/fulcrumgenomics/fgsv) Tools to gather evidence for structural variation via breakpoint detection.
+* [fgoxide](https://github.com/fulcrumgenomics/fgoxide) Quality of life improvements for Bioinformatics in Rust.
+* [fqgrep](https://github.com/fulcrumgenomics/fqgrep) Grep for FASTQ files
 
-  We hope that you will find them useful too!
+We hope that you will find them useful too!
 
 <!--
 
