@@ -12,6 +12,9 @@ Talk to us about your problem – we’ll understand.
 Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.
 We hope that you will find them useful too!
 
+* We publish under the [MIT License](../LICENSE) 
+* We have a [Code of Conduct](../CODE_OF_CONDUCT.md)
+
 ### Toolkits 🛠️
 Here are some _toolkits_ we've developed:
 
