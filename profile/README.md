@@ -1,4 +1,7 @@
-![Fulcrum Genomics logo](https://avatars.githubusercontent.com/u/13546013?s=200&v=4)
+<a href="https://fulcrumgenomics.com/" alt="Fulcrum Genomics Logo">
+<img src="assets/logo.png" width="64">
+</a>
+
 ## Hi there 👋 
 
 [Fulcrum Genomics](https://fulcrumgenomics.com/) Speaks Biology.
