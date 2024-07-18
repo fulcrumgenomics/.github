@@ -2,9 +2,11 @@
 
 [Fulcrum Genomics](https://fulcrumgenomics.com/) Speaks Biology.
 
-We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond. Talk to us about your problem – we’ll understand.
+We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond.
+Talk to us about your problem – we’ll understand.
 
-Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.  We hope that you will find them useful too!
+Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.
+We hope that you will find them useful too!
 
 ### Toolkits 
 Here are some _toolkits_ we've developed:
@@ -25,6 +27,7 @@ Here are some _libraries_ that we use regularly in our work:
 * Python
   * [fgpyo](https://github.com/fulcrumgenomics/fgpyo): Quality of life improvements for Bioinformatics in Python.
   * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED).
+  * [fgprimer](https://github.com/fulcrumgenomics/fgprimer): APIs and wrappers for performing PCR primer design related tasks. Uses primer3, ntThal and bwa.
 * Rust
   * [fgoxide](https://github.com/fulcrumgenomics/fgoxide): Quality of life improvements for Bioinformatics in Rust.
   * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in rust.
