@@ -1,5 +1,5 @@
 <a href="https://fulcrumgenomics.com/" alt="Fulcrum Genomics Logo">
-<img src="assets/logo.svg" width="64">
+<img src="assets/logo.svg" width="128">
 </a>
 
 ## Hi there 👋 
