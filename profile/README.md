@@ -46,7 +46,7 @@ Here are some _libraries_ that we use regularly in our work:
 ### Template Repositories 🏁
 
 Here are some _template_ repositories we use when we start something new:
-* [python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template) A template repository for Snakemake pipepline(s) and a python command-line toolkit.
+* [python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template): A template repository for Snakemake pipepline(s) and a python command-line toolkit.
 
 
 <!--
