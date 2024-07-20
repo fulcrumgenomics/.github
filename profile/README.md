@@ -7,10 +7,15 @@
 [Fulcrum Genomics](https://fulcrumgenomics.com/) Speaks Biology.
 
 We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond.
-Talk to us about your problem – we’ll understand.
+Talk to us about your problem –- we’ll understand.
+
 
 Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.
 We hope that you will find them useful too!
+
+* We prefer to publish under the [MIT License](../LICENSE);
+Forked repositories normally retain their original license and thus may be published under a different license.
+* We have a [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ### Toolkits 🛠️
 Here are some _toolkits_ we've developed:
@@ -21,7 +26,7 @@ Here are some _toolkits_ we've developed:
 * [fqgrep](https://github.com/fulcrumgenomics/fqgrep): Grep for FASTQ files.
 * [stitch](https://github.com/fulcrumgenomics/stitch): Stitch is a toolkit for analysis of chimeric reads in sequencing data.
 * [guide-counter](https://github.com/fulcrumgenomics/guide-counter): A better, faster way to count guides in CRISPR screens.
-* [bwa](https://github.com/fulcrumgenomics/bwa/tree/interactive_aln): A fork of [bwa](https://github.com/lh3/bwa) to run interactively work with bwa on the command line.
+* [bwa](https://github.com/fulcrumgenomics/bwa/tree/interactive_aln): A fork of [bwa](https://github.com/lh3/bwa) to run interactively and work with bwa on the command line.
 
 
 ### Libraries 📚
