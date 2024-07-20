@@ -1,12 +1,18 @@
+<a href="https://fulcrumgenomics.com/" alt="Fulcrum Genomics Logo">
+<img src="assets/logo.svg" width="128">
+</a>
+
 ## Hi there 👋 
 
 [Fulcrum Genomics](https://fulcrumgenomics.com/) Speaks Biology.
 
-We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond. Talk to us about your problem – we’ll understand.
+We are bioinformaticians, computational biologists, and software engineers with experience in basic research, technology development, diagnostics, therapeutics and beyond.
+Talk to us about your problem – we’ll understand.
 
-Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.  We hope that you will find them useful too!
+Below are [Toolkits](#toolkits), [Libraries](#libraries), and [Template Repositories](#template-repositories) that we've developed and use on a regular basis.
+We hope that you will find them useful too!
 
-### Toolkits 
+### Toolkits 🛠️
 Here are some _toolkits_ we've developed:
 
 * [fgbio](https://github.com/fulcrumgenomics/fgbio): Tools for working with genomic and high throughput sequencing data in Scala.
@@ -18,7 +24,7 @@ Here are some _toolkits_ we've developed:
 * [bwa](https://github.com/fulcrumgenomics/bwa/tree/interactive_aln): A fork of [bwa](https://github.com/lh3/bwa) to run interactively work with bwa on the command line.
 
 
-### Libraries
+### Libraries 📚
 
 Here are some _libraries_ that we use regularly in our work:
 
@@ -37,10 +43,11 @@ Here are some _libraries_ that we use regularly in our work:
 * GitHub Actions
   * [setup-latch](https://github.com/fulcrumgenomics/setup-latch): A GitHub action for building and register Latch Bio workflows.
 
-### Template Repositories
+### Template Repositories 🏁
 
-Here are some _template_ repositories:
+Here are some _template_ repositories we use when we start something new:
 * [python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template): A template repository for Snakemake pipepline(s) and a python command-line toolkit.
+
 
 <!--
 
