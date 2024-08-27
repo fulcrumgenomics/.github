@@ -35,10 +35,11 @@ Here are some _libraries_ that we use regularly in our work:
 
 * Python
   * [fgpyo](https://github.com/fulcrumgenomics/fgpyo): Quality of life improvements for Bioinformatics in Python.
-  * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED).
+  * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight interfaces for reading, writing, and querying Genomic Regions (BED) in Python.
+  * [prymer](https://github.com/fulcrumgenomics/prymer): APIs and wrappers for perfdorming PCR primer design related tasks in Python.
 * Rust
   * [fgoxide](https://github.com/fulcrumgenomics/fgoxide): Quality of life improvements for Bioinformatics in Rust.
-  * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in rust.
+  * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in Rust.
   * [pooled-writer](https://github.com/fulcrumgenomics/pooled-writer): A pooled writer and compressor library in Rust.
   * [bgzf](https://github.com/fulcrumgenomics/bgzf): High level readers and writers for the BGZF format in Rust.
 * Scala
