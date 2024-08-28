@@ -35,14 +35,15 @@ Here are some _libraries_ that we use regularly in our work:
 
 * Python
   * [fgpyo](https://github.com/fulcrumgenomics/fgpyo): Quality of life improvements for Bioinformatics in Python.
-  * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight Python interfaces for reading, writing, and querying Genomic Regions (BED).
+  * [pybedlite](https://github.com/fulcrumgenomics/pybedlite): Lightweight interfaces for reading, writing, and querying Genomic Regions (BED) in Python.
+  * [prymer](https://github.com/fulcrumgenomics/prymer): APIs and wrappers for performing PCR primer design and related tasks in Python.
 * Rust
   * [fgoxide](https://github.com/fulcrumgenomics/fgoxide): Quality of life improvements for Bioinformatics in Rust.
-  * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in rust.
+  * [read-structure](https://github.com/fulcrumgenomics/read-structure): Read structures in Rust.
   * [pooled-writer](https://github.com/fulcrumgenomics/pooled-writer): A pooled writer and compressor library in Rust.
   * [bgzf](https://github.com/fulcrumgenomics/bgzf): High level readers and writers for the BGZF format in Rust.
 * Scala
-  * [fgprimer](https://github.com/fulcrumgenomics/fgprimer): APIs and wrappers for performing PCR primer design related tasks in Scala.
+  * [fgprimer](https://github.com/fulcrumgenomics/fgprimer): APIs and wrappers for performing PCR primer design and related tasks in Scala.
   * [sopt](https://github.com/fulcrumgenomics/sopt): An argument parsing library for Scala.
   * [commons](https://github.com/fulcrumgenomics/commons): A collection of useful libraries for Scala.
 * GitHub Actions
