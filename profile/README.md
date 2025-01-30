@@ -1,6 +1,9 @@
 <a href="https://fulcrumgenomics.com/" alt="Fulcrum Genomics Logo">
-<img src="assets/logo.svg" width="128">
+<img src="assets/logo.svg" width="212">
 </a>
+
+<a href="mailto:contact@fulcrumgenomics.com?subject=[GitHub inquiry]"><img src="https://img.shields.io/badge/Email_us-brightgreen.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.fulcrumgenomics.com"><img src="https://img.shields.io/badge/Visit_Us-blue.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
 ## Hi there 👋 
 
