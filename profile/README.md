@@ -1,7 +1,6 @@
 <a href="https://fulcrumgenomics.com/" alt="Fulcrum Genomics Logo">
 <img src="assets/logo.svg" width="212">
 </a>
-
 <a href="mailto:contact@fulcrumgenomics.com?subject=[GitHub inquiry]"><img src="https://img.shields.io/badge/Email_us-brightgreen.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.fulcrumgenomics.com"><img src="https://img.shields.io/badge/Visit_Us-blue.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
@@ -21,6 +20,7 @@ Forked repositories normally retain their original license and thus may be publi
 * We have a [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 ### Toolkits 🛠️
+
 Here are some _toolkits_ we've developed:
 
 * [fgbio](https://github.com/fulcrumgenomics/fgbio): Tools for working with genomic and high throughput sequencing data in Scala.
@@ -30,7 +30,6 @@ Here are some _toolkits_ we've developed:
 * [stitch](https://github.com/fulcrumgenomics/stitch): Stitch is a toolkit for analysis of chimeric reads in sequencing data.
 * [guide-counter](https://github.com/fulcrumgenomics/guide-counter): A better, faster way to count guides in CRISPR screens.
 * [bwa](https://github.com/fulcrumgenomics/bwa/tree/interactive_aln): A fork of [bwa](https://github.com/lh3/bwa) to run interactively and work with bwa on the command line.
-
 
 ### Libraries 📚
 
@@ -51,21 +50,3 @@ Here are some _libraries_ that we use regularly in our work:
   * [commons](https://github.com/fulcrumgenomics/commons): A collection of useful libraries for Scala.
 * GitHub Actions
   * [setup-latch](https://github.com/fulcrumgenomics/setup-latch): A GitHub action for building and register Latch Bio workflows.
-
-### Template Repositories 🏁
-
-Here are some _template_ repositories we use when we start something new:
-* [python-snakemake-template](https://github.com/fulcrumgenomics/python-snakemake-template): A template repository for Snakemake pipepline(s) and a python command-line toolkit.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
